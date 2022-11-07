@@ -1,0 +1,2 @@
+# Python
+こんにちは。なんかGithubにupするのが面白くなってきたのでHeelo Worldのソースもupしてみました。これからPythonの練習にここにupしようと思います。
